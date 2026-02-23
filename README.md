@@ -94,32 +94,31 @@ Uses the **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com
 
 ## How to Run
 
-1. Clone the repository  
+**1. Clone the repository**
 ```
 git clone https://github.com/yourusername/olist-ecommerce-analysis.git
 cd olist-ecommerce-analysis
 ```
-2. Create the virtual environment and activate  
-**Linux and MacOs**
+**2. Create the virtual environment and activate**
+ - Linux and MacOs
 ```
 python3 -m venv vir_env
 source vir_env/bin/activate
 ```
-**Windowns (CMD)**
+ - Windowns (CMD)
 ```
 python3 -m venv vir_env
 .\vir_env\Scripts\activate.bat
-
 ```
 
-3. Install dependencies  
+**3. Install dependencies**
 ```
 pip install -r requirements.txt
 ```
 
-4. Download dataset from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) into `archive/` folder
+**4. Download dataset from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) into `archive/` folder**
 
-5. Launch Jupyter  
+**5. Launch Jupyter**
    ```bash
    jupyter notebook
    ```
