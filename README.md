@@ -23,7 +23,7 @@ Uses the **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com
 ## Key Insights
 
 **Revenue & Growth**
-- Monthly revenue grew **4×** from ~$271K (Feb 2017) to ~$1.13M (Apr 2018)
+- Monthly revenue grew **4×** from ~$271K (Feb 2017) to ~$1.17M (Nov 2017)
 - **Black Friday 2017** created a new revenue baseline above $840K
 
 **Payment Behavior**
